@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>CV.bcf</file>
+      <file>CV_nl.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>CV.bbl</file>
+      <file>CV_nl.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,26 +60,26 @@
       <file>numeric-verb.cbx</file>
       <file>ieee.cbx</file>
       <file>biblatex.cfg</file>
-      <file>english.lbx</file>
+      <file>dutch.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>CV</infile>
+      <infile>CV_nl</infile>
     </cmdline>
     <input>
-      <file>CV.bcf</file>
+      <file>CV_nl.bcf</file>
     </input>
     <output>
-      <file>CV.bbl</file>
+      <file>CV_nl.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>CV.bbl</file>
+      <file>CV_nl.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>CV.bcf</file>
+      <file>CV_nl.bcf</file>
     </requires>
   </external>
 </requests>

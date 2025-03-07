@@ -1,0 +1,76 @@
+
+\documentclass[a4paper,skipsamekey,11pt,dutch]{curve}
+
+\PassOptionsToPackage{style=ieee,sorting=ydnt,uniquename=init,defernumbers=true}{biblatex}
+
+\usepackage{settings}
+
+\DefineBibliographyStrings{dutch}{url={\textsc{url}}}
+
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec} 
+  %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+% Change the page margins if you want
+%\geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+
+% Change the colours if you want
+% \definecolor{SwishLineColour}{HTML}{00FFFF}
+% \definecolor{MarkerColour}{HTML}{0000CC}
+
+% Change the item prefix marker if you want
+%\prefixmarker{$\diamond$}
+
+%% Photo is only shown if "fullonly" is included
+\includecomment{fullonly}
+% \excludecomment{fullonly}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\leftheader{%
+{\LARGE\bfseries\sffamily Ze Ping} \par
+{\LARGE\bfseries\sffamily Ip}\par
+\vspace{0.5cm}
+  \makefield{\faPhone}{+32 456-011-979}
+  \makefield{\faEnvelope[regular]}{\href{mailto:zeping02@gmail.com}{\texttt{zeping02@gmail.com}}}
+  % fontawesome5 doesn't have the X icon so we use
+  % the simpleicons package here instead; but some 
+  % font size adjustment might be needed
+  %\makefield{{\scriptsize\simpleicon{x}}}{\!\href{https://x.com/overleaf_example}{\texttt{@overleaf\_example}}}
+  \makefield{\faLinkedin}
+  {\href{https://www.linkedin.com/in/ze-ping-ip-667486304/}{\texttt{Ze Ping Ip}}}
+  %% Next line
+  %\makefield{\faGlobe}{\url{http://example.example.org/}}
+  % You can use a tabular here if you want to line up the fields.
+}
+
+\rightheader{~}
+\begin{fullonly}
+\photo[r]{photo_zeping_shaped}
+\photoscale{0.23}
+\end{fullonly}
+
+\title{Curriculum Vitae}
+
+\begin{document}
+\makeheaders[c]
+\makerubric{about_me_nl}
+
+\makerubric{employment_nl}
+\makerubric{education_nl}
+
+\makerubric{skills_nl}
+
+\end{document}

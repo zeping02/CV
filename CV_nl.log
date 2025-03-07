@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.11)  3 MAR 2025 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.11)  7 MAR 2025 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/zepin/temp/CV/CV.tex
-(c:/Users/zepin/temp/CV/CV.tex
+**c:/Users/zepin/temp/CV/CV_nl.tex
+(c:/Users/zepin/temp/CV/CV_nl.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/curve\curve.cls
@@ -145,17 +145,12 @@ Package: babel 2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLaTe
 *
 (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-)) (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/babel-dutch\dutch.ldf
+Language: dutch 2021/08/29 v3.8l Dutch support from the babel system
+Package babel Info: Making " an active character on input line 127.
+)) (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/nl\babel-dutch.tex
+Package babel Info: Importing font and identification data for dutch
+(babel)             from babel-nl.ini. Reported on input line 11.
 ) (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -856,35 +851,35 @@ Package: zi4 2019/05/17 v1.12
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 95.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 95.
+Package csquotes Info: Redefining alias 'default' -> 'dutch'.
+LaTeX Info: Redefining \oldstylenums on input line 67.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 67.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-osf.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 95.
- (CV.aux)
-\openout1 = `CV.aux'.
+(Font)              scaled to size 10.95pt on input line 67.
+ (CV_nl.aux)
+\openout1 = `CV_nl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count461
@@ -938,26 +933,26 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-(C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'dutch'...
+Package biblatex Info: ... file 'dutch.lbx' found.
+(C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\dutch.lbx
+File: dutch.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `CV.bcf'.
+\openout5 = `CV_nl.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'CV.bbl' not found.
+Package biblatex Info: ... file 'CV_nl.bbl' not found.
 
-No file CV.bbl.
-Package biblatex Info: Reference section=0 on input line 95.
-Package biblatex Info: Reference segment=0 on input line 95.
-Package hyperref Info: Link coloring ON on input line 95.
-(CV.out) (CV.out)
+No file CV_nl.bbl.
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
+Package hyperref Info: Link coloring ON on input line 67.
+(CV_nl.out) (CV_nl.out)
 \@outlinefile=\write6
-\openout6 = `CV.out'.
+\openout6 = `CV_nl.out'.
 
 \c@mv@tabular=\count467
 \c@mv@boldtabular=\count468
@@ -965,67 +960,72 @@ Package hyperref Info: Link coloring ON on input line 95.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 96.
+(Font)              scaled to size 17.28pt on input line 68.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 96.
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 96.
+(Font)              scaled to size 17.28pt on input line 68.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 68.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 96.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 68.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 96.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 96.
+(Font)              scaled to size 17.28pt on input line 68.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 68.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 96.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 68.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 68.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 96.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 96.
+(Font)              scaled to size 9.85492pt on input line 68.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 68.
  (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 96.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 96.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 96.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 96.
+(Font)              <6> on input line 68.
 <photo_zeping_shaped.jpg, id=32, 789.95125pt x 789.95125pt>
 File: photo_zeping_shaped.jpg Graphic file (type jpg)
 <use photo_zeping_shaped.jpg>
-Package pdftex.def Info: photo_zeping_shaped.jpg  used on input line 96.
+Package pdftex.def Info: photo_zeping_shaped.jpg  used on input line 68.
 (pdftex.def)             Requested size: 107.9762pt x 107.9647pt.
- (about_me.tex (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (about_me.tex) (about_me.tex) (about_me.tex) (employment.tex) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex)
+ (about_me_nl.tex (C:\Users\zepin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (about_me_nl.tex) (about_me_nl.tex) (about_me_nl.tex) (employment_nl.tex) (employment_nl.tex) (employment_nl.tex) (employment_nl.tex) (education_nl.tex) (education_nl.tex) (education_nl.tex) (education_nl.tex) (skills_nl.tex) (skills_nl.tex) (skills_nl.tex) (skills_nl.tex
+Overfull \hbox (5.18948pt too wide) in paragraph at lines 5--5
+ []\T1/Cochineal-OsF/m/n/10.95 Webontwikkeling 
+ []
+
+)
 
 [1
 
-{C:/Users/zepin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc} <./photo_zeping_shaped.jpg>] (CV.aux)
+{C:/Users/zepin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc} <./photo_zeping_shaped.jpg>] (CV_nl.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `CV.out' has not changed.
+Package rerunfilecheck Info: File `CV_nl.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'CV.run.xml'.
-\openout1 = `CV.run.xml'.
+Package logreq Info: Writing requests to 'CV_nl.run.xml'.
+\openout1 = `CV_nl.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39478 strings out of 473529
- 803945 string characters out of 5714773
- 1595613 words of memory out of 5000000
- 62064 multiletter control sequences out of 15000+600000
+ 39502 strings out of 473529
+ 804186 string characters out of 5714773
+ 1595587 words of memory out of 5000000
+ 62088 multiletter control sequences out of 15000+600000
  714798 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,101p,1218b,1795s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,11n,101p,1221b,1726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/zepin/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on CV.pdf (1 page, 374143 bytes).
+Output written on CV_nl.pdf (1 page, 375636 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
